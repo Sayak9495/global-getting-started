@@ -20,11 +20,11 @@ func Getting_started(ctx *gin.Context) {
 
 	question_object := strikeObject.Question("").
 		QuestionText().
-		SetTextToQuestion("Hi "+name+"! fghWelcome to strike developers community", "Text Description, getting used for testing purpose.")
+		SetTextToQuestion("Hi "+name+"! Welcome to strike developers community", "Text Description, getting used for testing purpose.")
 
 	answer_object := question_object.Answer(true).AnswerCardArray(strike.VERTICAL_ORIENTATION)
-	answer_object.AnswerCard().SetHeaderToAnswer(1, strike.HALF_WIDTH).AddGraphicRowToAnswer(strike.PICTURE_ROW, []string{"https://logodix.com/logo/2205276.png"}, []string{})
-	//answer_object.AnswerCard().SetHeaderToAnswer(1, strike.HALF_WIDTH).AddTextRowToAnswer(strike.H4, "Cool stuff about what we really are", "#41a800", true)
+	answer_object.AnswerCard().SetHeaderToAnswer(1, strike.HALF_WIDTH).AddGraphicRowToAnswer(strike.PICTURE_ROW, []string{"https://raw.githubusercontent.com/shashank404error/global-getting-started/main/media/namaste.png"}, []string{}).
+		AnswerCard().SetHeaderToAnswer(1, strike.HALF_WIDTH).AddTextRowToAnswer(strike.H4, "Congractulations! you just creared your new bot", "#41a800", true)
 
 	ctx.JSON(200, strikeObject)
 }
