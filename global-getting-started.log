@@ -1,0 +1,239 @@
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 17:18:50 | 404 |       1.189µs |       127.0.0.1 | GET      "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 17:25:26 | 404 |        2.19µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 17:25:31 | 404 |       2.095µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 17:25:32 | 404 |       2.546µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 17:25:33 | 404 |        2.85µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 17:25:34 | 404 |       2.417µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 17:25:37 | 404 |       2.216µs |  192.168.29.174 | GET      "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 18:50:45 | 200 |    1.104163ms | 2405:201:a407:91cb:3535:bf33:7158:c569 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 19:18:38 | 200 |     859.425µs | 2405:201:a407:91cb:3535:bf33:7158:c569 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 19:19:04 | 200 |    1.179623ms | 2405:201:a407:91cb:3535:bf33:7158:c569 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 20:31:53 | 200 |    1.109178ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 20:33:18 | 200 |    1.062784ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:01:14 | 200 |    1.014172ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:06:20 | 200 |    1.052009ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:12:58 | 200 |     850.548µs | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:14:22 | 200 |     860.981µs | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:16:47 | 200 |    1.081525ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:17:33 | 200 |     775.803µs | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:36:05 | 200 |    1.233248ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:37:29 | 200 |    1.160183ms | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 22:37:50 | 200 |     236.755µs | 2409:4064:4db9:c7b8::2148:7612 | POST     "/global-getting-started/getting-started"
+[GIN] 2022/01/14 - 22:38:30 | 200 |     341.671µs | 2409:4064:2d93:4066:ee35:fb69:1615:d72 | POST     "/global-getting-started/getting-started"
+[GIN-debug] [WARNING] Now Gin requires Go 1.13+.
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /global-getting-started/getting-started --> github.com/Strike-official/global-getting-started/internal/controller.Getting_started (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7001
+[GIN] 2022/01/14 - 22:39:09 | 200 |    1.030486ms | 2409:4064:2d93:4066:ee35:fb69:1615:d72 | POST     "/global-getting-started/getting-started"
